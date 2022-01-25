@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Tutorial Remix",
+			"gf-ex",
+			[
+				128,
+				7,
+				88
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "bobandbosip",
+	"difficulties": "Easy, Normal, Hard, EX",
+	"weekCharacters": [
+		"",
+		"",
+		"bf_and_gf"
+	],
+	"storyName": "How to Rap",
+	"weekName": "tutorial remix",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

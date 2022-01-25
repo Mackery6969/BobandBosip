@@ -1,0 +1,49 @@
+{
+	"storyName": "bob & bosip",
+	"difficulties": "Easy, Normal, Hard, EX",
+	"hideFreeplay": false,
+	"weekBackground": "bobandbosip",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bobs",
+		"",
+		"bosip"
+	],
+	"songs": [
+		[
+			"jump in",
+			"bob",
+			[
+				255,
+				221,
+				68
+			]
+		],
+		[
+			"swing",
+			"bosip",
+			[
+				225,
+				139,
+				56
+			]
+		],
+		[
+			"split",
+			"pedophile",
+			[
+				215,
+				60,
+				146
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bob and bosip"
+}

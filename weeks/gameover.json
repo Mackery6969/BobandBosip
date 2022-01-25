@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Gameover",
+			"dead",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "EX",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "death",
+	"weekName": "???",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
